@@ -6,7 +6,7 @@
 ### Descripción del proyecto
   ¡Hola, bienvenidos y bienvenidas!  El Challenge "Amigo Secreto" es parte de un programa de formación en Programación de Alura Latam y Oracle Next Education.
   Este proyecto tiene como finalidad demostrar el trabajo que hemos estado realizando y el conocimiento que llevamos obtenido hasta el momento.
-  Pero basta de preámbulos, el proyecto terminado consta de un juego que le permite a el o los jugadores digitar el nombre de sus amigos, mientras que el programa los va recopilando y una vez que todos los nombres ya hayan sido digitados y el juego accionado, los usuarios podrán obtener uno de los nombres de manera aleatoria.
+  Pero basta de preámbulos, el proyecto terminado consta de un juego que le permite a él o los jugadores digitar el nombre de sus amigos, mientras que el programa los va recopilando y una vez que todos los nombres ya hayan sido digitados y el juego accionado, los usuarios podrán obtener uno de los nombres de manera aleatoria.
   
 ### Funcionalidades:
   - Los jugadores podrán agregar distintos nombres de sus amigos.
