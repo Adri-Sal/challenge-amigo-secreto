@@ -4,7 +4,6 @@ let nombres = [];
 document.getElementById('agregarNombre').addEventListener('click', agregarAmigo);
 document.getElementById('sorteo').addEventListener('click', sortearAmigo);
 
-
 //Limpiar contenedor de resultados/lista
 function limpiarContenedor(idContenedor) {
     const contenedor = document.getElementById(idContenedor);
@@ -12,7 +11,6 @@ function limpiarContenedor(idContenedor) {
         contenedor.removeChild(contenedor.firstChild);
     }
 }
-
 
 // Agregar nombres
 function agregarAmigo() {
@@ -54,7 +52,6 @@ function listarNombres() {
         listaDeAmigos.appendChild(elementoLista); 
     });
 }
-//{{{{{{{}}}}}}
 
 //Genera un nombre secreto aleatorio
 function generarNombreSecreto() {
