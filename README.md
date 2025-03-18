@@ -43,7 +43,7 @@
   - El código del juego tiene diversas notas que podrían ayudarte a saber algunas funciones.
   
 ### Autores del proyecto:
-  - Equipo de programadores de Alura.
+  - Equipo de programadores de Alura Latam.
   - Adriana Salazar.
 
 
